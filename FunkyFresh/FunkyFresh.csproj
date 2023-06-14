@@ -27,4 +27,9 @@
   <ItemGroup>
     <Content Include="FunkyFresh.csproj.user" />
   </ItemGroup>
+  <ItemGroup>
+    <None Update="assets\funkyfresh.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
