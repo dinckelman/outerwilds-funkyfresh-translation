@@ -14,6 +14,10 @@ This is a reference to a running gag in [FrogMuseum's stream](https://twitch.tv/
 - Extract the contents of the archive into this folder.
 - Two new mods should appear in the mod list, however make sure that all 4 mods are toggled on, as shown here
 
+![OWMM](screenshots/owmm.png)
+
+> ![Result](screenshots/ingame.png)
+
 ## Credits
 
 Big thanks to Xen for creating the updated [localization kit](https://github.com/xen-42/outer-wilds-localization-utility), and to andergb for the [Andalûh translation](https://github.com/andergd/OuterWildsAndaluh), which this is based on.
