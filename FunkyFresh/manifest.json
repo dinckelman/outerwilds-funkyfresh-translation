@@ -4,7 +4,7 @@
   "author": "dinckelman",
   "name": "FunkyFresh",
   "uniqueName": "dinckelman.FunkyFresh",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "owmlVersion": "2.9.0",
   "dependencies": [
     "xen.LocalizationUtility"
